@@ -1,4 +1,4 @@
-# DropHive
+# Projecto de Producción de Software (A.A. 2024-2025)
 
 ## Descripción
 Nuestro software de inventario está diseñado para facilitar la gestión de productos y proveedores en cualquier negocio, sin necesidad de herramientas complicadas. Con una interfaz intuitiva, permite agregar, editar, eliminar y consultar artículos de manera rápida, asegurando que todo esté bien organizado y actualizado. 
